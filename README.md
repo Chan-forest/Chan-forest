@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cristian B Gubat(Chan)
+- 👋 Hi, I’m Chan-forest
 - 👀 I’m interested in (You)
 - 🌱 I’m currently learning web, programming 
 - 💞️ I’m looking to collaborate on projects 
